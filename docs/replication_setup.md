@@ -10,7 +10,7 @@
 
 ### Create replication user
 ```sql
-CREATE USER replicator WITH REPLICATION PASSWORD 'rep123';
+CREATE USER replicator WITH REPLICATION PASSWORD 'your_password';
 ```
 
 ### Update pg_hba.conf
